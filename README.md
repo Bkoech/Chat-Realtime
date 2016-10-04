@@ -1,8 +1,8 @@
 # Chat-Realtime
 
-Aplikasi ini akan selalu bersetatus (BETA) Karena akan terus di update & dikembangkan. Maka dari itu jangan lupa di fork & like ya sob :).
+This app will always be on (BETA) Because there will continue to be updated and developed. Hence, do not forget at the fork and like ya bro :).
 
-Aplikasi ini dibuat menggunakan:
+This application is created using:
 - PHP
 - Bootstrap
 - MySQL
@@ -10,7 +10,7 @@ Aplikasi ini dibuat menggunakan:
 - Firebase
 - Fontawesome
 
-Fitur:
+Faetures:
 - Public rooms chat.
 - Private chat with user.
 
@@ -20,7 +20,7 @@ Realtime:
 - Push new message.
 - Push inbox count.
 
-<h3>Penggunaan:</h3>
+<h3>Use:</h3>
 1. Import database <code>db/chat_realtime.sql</code>
 
 2. Setting database <code>lib/config.php</code>
